@@ -7,6 +7,7 @@
 A simple private command-line pastebin that uses HTTP basic authentication and Lazer Database (Flat-File).
 
 ## Get started
+Clone the repository. The database is stored under the directory *database*. Protect this directory. After you clone it, do a *composer install* and enjoy.
 
 ### Client-side:
 You can communicate with the pastebin using `curl`
